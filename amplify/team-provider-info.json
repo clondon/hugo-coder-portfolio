@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-charleslondononline-dev-131600-authRole",
+      "UnauthRoleArn": "arn:aws:iam::710251022788:role/amplify-charleslondononline-dev-131600-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::710251022788:role/amplify-charleslondononline-dev-131600-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-charleslondononline-dev-131600-deployment",
+      "UnauthRoleName": "amplify-charleslondononline-dev-131600-unauthRole",
+      "StackName": "amplify-charleslondononline-dev-131600",
+      "StackId": "arn:aws:cloudformation:eu-west-2:710251022788:stack/amplify-charleslondononline-dev-131600/46e8e680-8df0-11ee-841d-06df1c064cac",
+      "AmplifyAppId": "d1ex9dzr3qdnts"
+    }
+  }
+}
