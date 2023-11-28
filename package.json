@@ -1,0 +1,12 @@
+{
+  "name": "hugo-coder-portfolio",
+  "version": "1.0.0",
+  "description": "--------------------------- This theme is created based on [hugo-coder](https://github.com/luizdepra/hugo-coder).   I made it possible to tell yourself more by my change.    Please see [FeaturesOfCoderPortfolio](https://github.com/naro143/hugo-coder-portfolio/blob/master/exampleSite/content/posts/FeaturesOfCoderPortfolio.md) in the post about the change. Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/naro143/hugo-coder-portfolio/issues/new) or [ask me on Twitter](https://twitter.com/naro143).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
