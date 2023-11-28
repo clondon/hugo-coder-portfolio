@@ -2,7 +2,7 @@
 date = "2018-08-03"
 title = "Theme Demo"
 math = "true"
-
+draft = "true"
 +++
 
 ## Style Demo

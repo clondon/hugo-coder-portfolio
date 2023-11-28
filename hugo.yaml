@@ -1,5 +1,5 @@
 baseurl: /
-title: Yusuke Ishimi
+title: Charles London
 theme: coder-portfolio
 DefaultContentLanguage: en
 paginate: 20
@@ -9,8 +9,8 @@ pygmentscodefencesguesssyntax: true
 pygmentsUseClasses: true
 disqusShortname: yourdiscussshortname
 params: 
-  author: Yusuke Ishimi
-  description: Yusuke Ishimi's personal website
+  author: Charles London
+  description: Charles London's personal website
   keywords: blog,developer,personal
   info: WEB AND APPS ENGINEER
   avatarurl: images/avatar.jpg
@@ -50,11 +50,11 @@ languages:
   en: 
     languagecode: en
     languagename: English
-    title: Yusuke Ishimi
+    title: Charles London
     params: 
-      author: Yusuke Ishimi
+      author: Charles London
       info: WEB AND APPS ENGINEER
-      description: Yusuke Ishimi's personal website
+      description: Charles London's personal website
       keywords: blog,developer,personal
     menu: 
      main:
@@ -70,26 +70,26 @@ languages:
       - name: Contact me
         weight: 5
         url: contact
-  ja:
-    languagecode: ja
-    languagename: Japanese
-    title: 石見 優丞
-    params: 
-      author: 石見 優丞
-      description: 石見のサイト
-      keywords: blog,developer,strona domowa
-      info: WEBとアプリのエンジニア
-    menu: 
-     main:
-      - name: テーマについて
-        weight: 1.0
-        url: ja/about
-      - name: ブログ
-        weight: 2.0
-        url: ja/posts
-      - name: プロジェクト
-        weight: 3
-        url: ja/projects
-      - name: お問い合わせ
-        weight: 5
-        url: ja/contact
+  # ja:
+  #   languagecode: ja
+  #   languagename: Japanese
+  #   title: 石見 優丞
+  #   params: 
+  #     author: 石見 優丞
+  #     description: 石見のサイト
+  #     keywords: blog,developer,strona domowa
+  #     info: WEBとアプリのエンジニア
+  #   menu: 
+  #    main:
+  #     - name: テーマについて
+  #       weight: 1.0
+  #       url: ja/about
+  #     - name: ブログ
+  #       weight: 2.0
+  #       url: ja/posts
+  #     - name: プロジェクト
+  #       weight: 3
+  #       url: ja/projects
+  #     - name: お問い合わせ
+  #       weight: 5
+  #       url: ja/contact
