@@ -1,4 +1,4 @@
-baseurl: http://www.example.com
+baseurl: /
 title: Yusuke Ishimi
 theme: coder-portfolio
 DefaultContentLanguage: en
