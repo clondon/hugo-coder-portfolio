@@ -1,0 +1,7 @@
+github.com/clondon/CSS-General v0.0.0-20231201222809-b26b78b6da01 h1:9QFo00dNWRzrPxuQMAI+kYS+IJw39zRoWEbnfC1/jY0=
+github.com/clondon/CSS-General v0.0.0-20231201222809-b26b78b6da01/go.mod h1:8W2l1dfTSE9ovWCGHJhAjb1bacHOaMgTnBC+I7zofFQ=
+github.com/clondon/content-for-charleslondon-online v0.0.0-20231129231057-8d13cce8706f h1:OGLhqmTaNzn9/rN/F/5NcSqMpY9JVAAgdIR+VTxWWzk=
+github.com/clondon/content-for-charleslondon-online v0.0.0-20231129231057-8d13cce8706f/go.mod h1:/AzW7/lxv+9siHq+QWlp/3Qre5tt+X8I0Th2xgTz76M=
+
+
+replace github.com/clondon/content-for-charleslondon-online => /content

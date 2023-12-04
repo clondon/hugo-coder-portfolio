@@ -1,0 +1,17 @@
+
+imports:
+  - path: github.com/clondon/content-for-charleslondon-online
+    mounts: 
+    - source: content
+      target: content
+
+  - path: github.com/clondon/CSS-General
+    mounts:
+    - source: custom_styles.scss
+      target: assets/custom_styles.scss
+
+  
+  - path: github.com/FortAwesome/Font-Awesome
+
+
+

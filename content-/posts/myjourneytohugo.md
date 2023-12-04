@@ -1,11 +1,11 @@
 +++
 date = "2023-11-28"
-title = "My Journey to Hugo Go"
+title = "My Journey to HugoGo Static site generator"
 math = "true"
 
 +++
 
-## Hugo Go is my go too,
+## Hugo Go: My Ultimate Go-To.
 
 For most small websites there is nothing better than Hugo Go. It is fast, easy to use, and can save you a lot of money. 
 

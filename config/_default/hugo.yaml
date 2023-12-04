@@ -13,7 +13,7 @@ params:
   description: Charles London's personal website
   keywords: blog,developer,personal
   info: WEB AND APPS ENGINEER
-  avatarurl: images/avatar.jpg
+  avatarurl: https://s3.eu-west-1.amazonaws.com/charleslondon.online/images/charles_in_sunglasses_transparent_Large.png
   footercontent: Enter a text here.
   fixedbarContent: Do you want to know me more private?→
   fixedbarContentAfter: Thank You! Please share it if you like it→
@@ -26,7 +26,7 @@ params:
   enableLineShare: true
   enableLinkedInShare: true
   thumbnail: images/tn.png
-  custom_css: []
+  custom_css: [ css/custom.css ]
   itemscentered: true
   rtl: false
   langseparator: "|"
@@ -96,3 +96,18 @@ languages:
 
 
 
+modules:
+
+imports:
+  - path: github.com/clondon/content-for-charleslondon-online
+    mounts: 
+    - source: content
+      target: content
+
+  - path: github.com/clondon/CSS-General
+    mounts:
+    - source: custom_styles.scss
+      target: assets
+
+  
+  - path: github.com/FortAwesome/Font-Awesome
